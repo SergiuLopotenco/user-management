@@ -52,7 +52,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"id\": 2,\r\n    \"name\": \"John 0003\",\r\n    \"email\": \"john_0003.doe@test.com\"\r\n}"
+					"raw": "{\r\n    \"id\": 2,\r\n    \"name\": \"John Doe\",\r\n    \"email\": \"john_doe@test.com\"\r\n}"
 				},
 				"url": {
 					"raw": "http://localhost:8080/users/2",
@@ -82,7 +82,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"John22sdcscsdcs33\",\r\n    \"email\": \"john.doe2dscscsd332@test.com\"\r\n}"
+					"raw": "{\r\n    \"name\": \"John\",\r\n    \"email\": \"john@test.com\"\r\n}"
 				},
 				"url": {
 					"raw": "http://localhost:8080/users",
@@ -110,7 +110,7 @@
 					}
 				],
 				"url": {
-					"raw": "http://localhost:8080/users/4",
+					"raw": "http://localhost:8080/users/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
